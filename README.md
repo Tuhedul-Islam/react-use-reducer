@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Learning
+## Learning [UseReducer](https://react.dev/reference/react/useReducer)
 ```jsx
 const bookArr = [
         { id: 1, name: "book 1" },
